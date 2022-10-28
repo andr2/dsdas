@@ -6,12 +6,6 @@
 
 ## Overview
 
-
-
-{% swagger src="https://raw.githubusercontent.com/teamdigitale/api-openapi-samples/master/external-apis/geodati.gov.it.yaml" path="/find/document" method="get" %}
-[https://raw.githubusercontent.com/teamdigitale/api-openapi-samples/master/external-apis/geodati.gov.it.yaml](https://raw.githubusercontent.com/teamdigitale/api-openapi-samples/master/external-apis/geodati.gov.it.yaml)
-{% endswagger %}
-
 Here are a couple ofwqwqeqwe example overviews from products with really great docs:
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
